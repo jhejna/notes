@@ -6,3 +6,4 @@ If you're interested in know more about me or the projects I have done in the pa
 
 ## Content
 * [Advanced Python Notes](programming/python)
+* [Machine Learning Notes](http://joeyhejna.com/mlbook)
