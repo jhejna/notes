@@ -1,0 +1,8 @@
+name: notes
+dependencies:
+  - python>3.6
+  - pip
+  - pip:
+      - mkdocs-material
+      - mkdocs-material-extensions
+      - mkdocs-minify-plugin
